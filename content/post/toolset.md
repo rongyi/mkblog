@@ -16,6 +16,7 @@ draft: false
 </div>
 </div>
 
+
 # ag<a id="sec-1" name="sec-1"></a>
 
 代码搜索工具，效率高替代grep的命令行工具，又非常多的编辑器绑定，vim/emacs/atom都支持。
@@ -40,19 +41,19 @@ meld和cdiff都是代码diff工具，前者带UI，后者是命令行工具。�
 <h2 class="footnotes">Footnotes: </h2>
 <div id="text-footnotes">
 
-<div class="footdef"><sup><a id="fn.1" name="fn.1" class="footnum" href="#fnr.1">1</a></sup> ag page</div>
+<div class="footdef"><sup><a id="fn.1" name="fn.1" class="footnum" href="#fnr.1">1</a></sup> https://github.com/ggreer/the_silver_searcher</div>
 
-<div class="footdef"><sup><a id="fn.2" name="fn.2" class="footnum" href="#fnr.2">2</a></sup> tmux page</div>
+<div class="footdef"><sup><a id="fn.2" name="fn.2" class="footnum" href="#fnr.2">2</a></sup> https://github.com/tmux/tmux</div>
 
-<div class="footdef"><sup><a id="fn.3" name="fn.3" class="footnum" href="#fnr.3">3</a></sup> dotfile/tmux.conf link</div>
+<div class="footdef"><sup><a id="fn.3" name="fn.3" class="footnum" href="#fnr.3">3</a></sup> https://github.com/rongyi/dotfile/blob/master/sh/tmux.conf</div>
 
-<div class="footdef"><sup><a id="fn.4" name="fn.4" class="footnum" href="#fnr.4">4</a></sup> mycli link</div>
+<div class="footdef"><sup><a id="fn.4" name="fn.4" class="footnum" href="#fnr.4">4</a></sup> https://github.com/dbcli/mycli</div>
 
-<div class="footdef"><sup><a id="fn.5" name="fn.5" class="footnum" href="#fnr.5">5</a></sup> meld link</div>
+<div class="footdef"><sup><a id="fn.5" name="fn.5" class="footnum" href="#fnr.5">5</a></sup> http://meldmerge.org/</div>
 
-<div class="footdef"><sup><a id="fn.6" name="fn.6" class="footnum" href="#fnr.6">6</a></sup> cdiff link</div>
+<div class="footdef"><sup><a id="fn.6" name="fn.6" class="footnum" href="#fnr.6">6</a></sup> https://github.com/ymattw/cdiff</div>
 
-<div class="footdef"><sup><a id="fn.7" name="fn.7" class="footnum" href="#fnr.7">7</a></sup> ycmd link</div>
+<div class="footdef"><sup><a id="fn.7" name="fn.7" class="footnum" href="#fnr.7">7</a></sup> https://github.com/Valloric/ycmd</div>
 
 
 </div>
